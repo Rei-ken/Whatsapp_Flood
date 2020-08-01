@@ -9,7 +9,6 @@ Whatsapp uygulamasında hedef kişiye hızlı şekilde mesaj/flood gönderen uyg
 
 3)selenium için tarayıcınıza uygun webdriver'inizi indiriniz ve kurunuz.
 
-4)Buradaki yazılımları kurabilirsiniz.
 
 Tüm adımları/kurulumları hatasız yaptı iseniz sorun çıkmayacaktır.
 
